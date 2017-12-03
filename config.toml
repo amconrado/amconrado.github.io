@@ -1,0 +1,4 @@
+baseURL = "http://mai.ac/"
+languageCode = "en-us"
+title = "Maia C."
+theme = "kiera"
