@@ -907,8 +907,8 @@ vaporColorChooser c =
 imageChooser: Style -> String
 imageChooser s =
     case s of
-        Vapor -> "url(elm/vaporwave.jpg)"
-        Lofi -> "url(elm/lofi.jpg)"
+        Vapor -> "url(media/vaporwave.jpg)"
+        Lofi -> "url(media/lofi.jpg)"
 
 
 {-- Functions that complete actual Tetris logic (dropping pieces, checking
